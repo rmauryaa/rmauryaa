@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Màurya</h1>
 <h3 align="center">A passionate Full Stack Web Developer </h3>
 
+![Your paragraph text (3)](https://github.com/rmauryaa/rmauryaa/assets/120002835/26542625-c3cc-4b88-8100-878cbdaa15c5)
 
-[Your paragraph text (3)](https://github.com/rmauryaa/rmauryaa/assets/120002835/38f34770-ecea-451b-ac63-f6142cba952a)
 
 ---
 
