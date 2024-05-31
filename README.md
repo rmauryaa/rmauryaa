@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Màurya</h1>
 <h3 align="center">A passionate Full Stack Web Developer </h3>
 
+
+![Your paragraph text](https://github.com/rmauryaa/demo_readme_check/assets/120002835/b541f55b-868c-4b64-bd4e-3fab8fac223e)
+
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmauryaa&label=Profile%20views&color=0e75b6&style=flat" alt="rmauryaa" /> </p>
