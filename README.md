@@ -4,10 +4,10 @@
 ![Your paragraph text (3)](https://github.com/rmauryaa/rmauryaa/assets/120002835/26542625-c3cc-4b88-8100-878cbdaa15c5)
 
 
----
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmauryaa&label=Profile%20views&color=0e75b6&style=flat" alt="rmauryaa" /> </p>
 
+---
+## 📊 GitHub Stats:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmauryaa" alt="rmauryaa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
