@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmauryaa&show_icons=true&locale=en" alt="rmauryaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmauryaa&" alt="rmauryaa"  /></p>
+
+<p><img width="250" height="250" align="right" src="https://github-contributor-stats.vercel.app/api?username=rmauryaa&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="rmauryaa"  /></p>
