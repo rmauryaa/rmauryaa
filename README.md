@@ -1,10 +1,28 @@
+<div align="center">
+
+---
+
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center" width="1000" />
+</div>
+---
+
 <h1 align="center">Hi 👋, I'm Rahul Màurya</h1>
 <h3 align="center">A passionate Full Stack Web Developer </h3>
 
-![Your paragraph text (3)](https://github.com/rmauryaa/rmauryaa/assets/120002835/26542625-c3cc-4b88-8100-878cbdaa15c5)
+
+<img align="right" width="280" src="https://github.com/rmauryaa/demo_readme_check/assets/120002835/59812762-7de8-4bbd-9af4-322e3cbdf170" style="border-radius:200px;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmauryaa&label=Profile%20views&color=0e75b6&style=flat" alt="rmauryaa" /> </p> 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmauryaa&label=Profile%20views&color=0e75b6&style=flat" alt="rmauryaa" /> </p>
+- 🔭 I’m currently working on **Full-Stack Web Development**
+
+- 🌱 I’m currently learning **Front-end web development**
+
+- 👯 I’m looking to collaborate on **Front-End Web Dev Projects**
+
+- ⚡ Fun fact - **I can talk 24/7 about  Cricket**
+<br><br>
+
 
 ---
 ## 📊 GitHub Stats:
