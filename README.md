@@ -2,7 +2,8 @@
 
 ---
 
-<img src="https://github.com/rmauryaa/demo_readme_check/assets/120002835/ed8d34b1-d5d5-4db0-a0ff-f1ba7caee2f1" align="center" width="1000" />
+
+<img src="https://github.com/rmauryaa/rmauryaa/assets/120002835/ee1287d9-0db2-4d28-9ac9-3af5415a9987" align="center" width="1000" />
 
 </div>
 
@@ -12,7 +13,8 @@
 <h3 align="center">A passionate Full Stack Web Developer </h3>
 
 
-<img align="right" width="280" src="https://github.com/rmauryaa/demo_readme_check/assets/120002835/59812762-7de8-4bbd-9af4-322e3cbdf170" style="border-radius:200px;">
+
+<img align="right" width="280" src="https://github.com/rmauryaa/rmauryaa/assets/120002835/8df48183-c470-4db0-8280-3c70baf04209" style="border-radius:200px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmauryaa&label=Profile%20views&color=0e75b6&style=flat" alt="rmauryaa" /> </p> 
 
 
