@@ -10,7 +10,9 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Rahul Màurya</h1>
-<h3 align="center">A passionate Full Stack Web Developer </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Passionate+about+creating+great+user+experiences" alt="Typing SVG">
+</p>
 
 
 
